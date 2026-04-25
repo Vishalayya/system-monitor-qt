@@ -1,0 +1,9 @@
+build/
+*.exe
+*.obj
+*.o
+*.log
+*.user
+*.autosave
+CMakeFiles/
+*.cmake
